@@ -1,4 +1,4 @@
-<!-- como escalar -->
+<!-- como escalar IO -->
 var fs = require('fs');
 
 <!-- número de treadpool -->
